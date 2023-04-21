@@ -10,6 +10,11 @@
       "StackName": "amplify-exampleiitems-dev-193242",
       "StackId": "arn:aws:cloudformation:sa-east-1:216863624236:stack/amplify-exampleiitems-dev-193242/6eaee250-e094-11ed-a199-0a9820c1117c",
       "AmplifyAppId": "d2bye5qfa6ohk0"
+    },
+    "categories": {
+      "api": {
+        "exampleiitems": {}
+      }
     }
   }
 }
